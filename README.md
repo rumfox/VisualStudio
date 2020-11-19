@@ -8,7 +8,6 @@ But it was not easy things.
 # Visual Studio 
 I will coding to using visual studio. 
 
-<<<<<<< HEAD
 # WSL  
 How to connect to WSL from visual studio? 
 
@@ -16,6 +15,4 @@ How to connect to WSL from visual studio?
 Using Gitflow at the visual studio. 
 
 ....
-=======
->>>>>>> abf6d15beb1320d3063222f53968acd0cca51664
 
