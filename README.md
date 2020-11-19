@@ -11,5 +11,7 @@ I will coding to using visual studio.
 # WSL  
 How to connect to WSL from visual studio? 
 
-# GitFlow Install   
-How to use gitflow at visual studio? 
+# GitFlow  
+Using Gitflow at the visual studio. 
+
+  
