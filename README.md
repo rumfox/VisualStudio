@@ -20,5 +20,8 @@ Using Gitflow at the visual studio.
 4
 5
 6
-
+7
+8
+9
+10
 
